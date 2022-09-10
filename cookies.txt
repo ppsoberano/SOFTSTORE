@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+aud.codesforever.com	TRUE	/	FALSE	1999999999	ip2location_redirection_first_visit	1662387458
+mxn.codesforever.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+mxn.codesforever.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_9f277e155057fb7ad42d16b4a8c542b7	t_0dc004eb6f4df6b0168b0f72e5b6af%7C%7C1662560275%7C%7C1662556675%7C%7Cd19f3ce3cf5c3f1cb19117b3586e99ae
+mxn.codesforever.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	454365313a26a223342fe26dcde81696
+
